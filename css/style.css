@@ -1,0 +1,81 @@
+*{
+	padding:0px;
+ 	margin:0px;	
+}
+
+body, html{
+	font-family:Roboto,sans-serif,arial;
+	background: white;
+}
+
+.width-100{
+	width:100% ;
+	float: left;
+}
+
+.adm
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.form_deg
+{
+	padding-top: 20px;
+}
+
+.login_form
+{
+	background-color: lightgreen;
+	width: 400px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.title_deg
+{
+	background-color: orangered;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	width: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+.body_deg
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+.container{
+	width: 100%;
+	margin: 100px 100px;
+	height: 25px;
+}
+
+.top-header{
+	background: white;
+	padding: 0px 0px;
+	border-bottom: 1px solid #3131315e;
+}
+
+.headquote{
+	font-size: 18px;
+	color: blue;
+	width: 100%;
+}
+.main-menu li{
+	float: left;
+	padding:15px  15px
+}
+
+.news-list{
+	background:#fff;
+	color: red;
+	padding:4px
+	font-size:25px;
+}
